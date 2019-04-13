@@ -1,0 +1,22 @@
+@import './variables.scss';
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1155px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+header {
+    height: 1000px;
+    width: 1520px;
+    background-image: url('./images/Polygon.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+        p {
+            font-size: 50px;
+        }
+    
+}
